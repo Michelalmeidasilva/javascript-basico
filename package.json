@@ -1,0 +1,28 @@
+{
+  "name": "javascript-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michelalmeidasilva/javascript-basico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michelalmeidasilva/javascript-basico/issues"
+  },
+  "homepage": "https://github.com/Michelalmeidasilva/javascript-basico#readme",
+  "dependencies": {
+    "standard": "^16.0.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^7.25.0"
+  }
+}
